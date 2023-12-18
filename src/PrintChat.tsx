@@ -8,7 +8,6 @@ interface Message {
   myself: boolean;
 }
 
-// create example message[] with 5 messages
 const messages: Message[] = [
   {
     id: "1",
